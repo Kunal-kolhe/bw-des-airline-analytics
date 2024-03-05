@@ -1,2 +1,3 @@
 # bw-des-airline-analytics
-This is my reposistory
+This is my repository
+Author - Kunal
